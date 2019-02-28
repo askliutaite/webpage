@@ -1,0 +1,4 @@
+# Bandomasis puslapis
+
+Čia kuriamas bandomasis puslapis. Ši paskyra priklauso studentui S367.
+Šis puslapis kuriamas VU EVAF vukstančios **"Duomenų analizės įvado"** paskaitos metu
